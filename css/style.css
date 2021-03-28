@@ -132,14 +132,12 @@ figure figcaption {
 #navaar-aside #navaar-logo {
   text-align: center;
   font-family: "Roboto", Arial, sans-serif;
-  font-weight: 800;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
   text-transform: uppercase;
-  font-size: 30px;
 }
 @media screen and (max-width: 768px) {
   #navaar-aside #navaar-logo {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
 }
 #navaar-aside #navaar-logo a {
